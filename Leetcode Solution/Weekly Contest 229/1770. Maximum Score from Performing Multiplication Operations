@@ -1,0 +1,37 @@
+class Solution {
+public:
+      int solve(vector<int>& a, vector<int>& b,int s,int e,int k,vector<vector<int>>& dp)
+      {
+              int n=a.size();
+              if(k==b.size() || s>e) return 0;
+              
+              if(dp[s][n-e]!=-1) return dp[s][a.size()-e];
+              
+              
+              
+              dp[s][n-e] = max(a[s]*b[k] + solve(a,b,s+1,e,k+1,dp), a[e]*b[k]+solve(a,b,s,e-1,k+1,dp));
+              
+              
+              return dp[s][n-e];
+              
+              
+      }
+        
+        
+        
+    int maximumScore(vector<int>& a, vector<int>& b) {
+            
+            
+            
+            // look slike this prblm is similar to optimal strategy game type
+            
+            int n=a.size();
+            int m=b.size();
+            
+            vector<vector<int>> dp(1001,vector<int> (1001,-1));
+            
+            return solve(a,b,0,n-1,0,dp);
+           
+        
+    }
+};
