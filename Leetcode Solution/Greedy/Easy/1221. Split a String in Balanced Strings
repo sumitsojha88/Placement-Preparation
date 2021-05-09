@@ -1,0 +1,42 @@
+
+/*
+
+Ex:-
+Input:
+
+"RLRRLLRLRL"
+"RLLLLRRRLR"
+"LLLLRRRR"
+"RLRRRLLRLL"
+
+Output:
+4    
+3
+1
+2
+
+*/
+
+class Solution {
+public:
+    int balancedStringSplit(string s) {
+       
+            int ans=0;
+            int c=0;                      //  For counting R and L
+            for(int i=0;i<s.size();i++)
+            {
+                    if(s[i]=='R')   // if R is present increase count
+                            c++;
+                    else              // if L is present decrease count
+                            c--;
+                    
+                    
+                    if(c==0)        // if c is zero than equal number of R and L is present hence its balanced so we will increase answer
+                            ans++;
+                    
+                
+            }
+            
+            return ans;
+    }
+};

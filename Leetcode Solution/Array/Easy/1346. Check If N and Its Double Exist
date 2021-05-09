@@ -1,0 +1,36 @@
+
+// We will use mapping concept to solve this
+
+
+class Solution {
+public:
+    bool checkIfExist(vector<int>& arr) {
+            
+            unordered_map<int,int> mp;  // Create map
+            int n=arr.size();
+            for(int i=0;i<n;i++)
+            {
+                 mp[arr[i]]++;    // store and increase element in map
+            }
+             if(mp[0]>=2)       // if number of zeros are greater or equal to 2 than  it will always be true;
+                    return true;
+            for(int i=0;i<n;i++)
+            {
+                 if(mp[2*arr[i]] && arr[i]!=0)    // check if current numbers double is present in map if yes return true
+                         return true;  
+                  else if(arr[i]%2==0 && arr[i]!=0) // check if current number if divisible by 2 than only we will process 
+                                                      // ex:- if 2 and 5 given 5/2==2 so it will give true which is not correct
+                  {
+                       if(mp[arr[i]/2])              // check if current numbers half is present in map if yes return true
+                       {
+                               return true;
+                       }
+                  }
+            }
+            
+           
+            
+            return false;
+        
+    }
+};

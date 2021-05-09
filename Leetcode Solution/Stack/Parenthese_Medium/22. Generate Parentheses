@@ -1,0 +1,30 @@
+class Solution {
+public:
+        void solve(int l,int r,string temp,vector<string> &ans,int n)
+        {
+              if(l==n && r==n) 
+              {     ans.push_back(temp);
+               return;
+               
+              }
+              else
+              {
+               if(l<n)  
+                      solve(l+1,r,temp+'(',ans,n);
+                if(r<l)
+                     solve(l,r+1,temp+')',ans,n);
+              }
+                
+               
+                
+                
+                
+        }
+    vector<string> generateParenthesis(int n) {
+           vector<string> ans;
+        string temp;
+            solve(0,0,temp,ans,n);
+            return ans;
+    }
+
+};
