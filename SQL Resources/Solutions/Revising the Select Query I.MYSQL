@@ -1,0 +1,7 @@
+
+
+
+SELECT *  /* We need all coloumns so we select all by */
+FROM CITY    /* name of table if CITY*/
+WHERE POPULATION > 100000  /* IN QUESTION WE ARE GIVEN TO  COLUMNS OF THOSE CITIES WHICH HAVE POPULATION MORE THAN 100000 AND IS IN USE*/
+  AND COUNTRYCODE = 'USA' ;   /* We use WHERE function to solve this we is similar to if c++ or java */

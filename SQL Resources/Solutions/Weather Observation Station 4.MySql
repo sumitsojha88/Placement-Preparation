@@ -1,0 +1,6 @@
+
+
+
+
+SELECT COUNT(CITY)-COUNT(DISTINCT(CITY))  /* use count function */
+FROM STATION;                               /* first count counts all name while in second it only counts distinct names*/ 

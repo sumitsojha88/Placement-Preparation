@@ -1,0 +1,6 @@
+
+
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY REGEXP '^[^aeiou]' ;   /* similar to earliar question instead we don't want to start with vowel so we use ^ symbol again refer notes*/

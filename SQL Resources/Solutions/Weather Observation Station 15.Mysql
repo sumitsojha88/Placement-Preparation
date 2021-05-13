@@ -1,0 +1,7 @@
+
+
+SELECT ROUND(LONG_W,4)  /* return long_w round upto 4 decimal */
+FROM STATION
+WHERE LAT_N < 137.2345 /* condition*/
+ORDER BY LAT_N DESC   /* sort by decreasing order means highest first */
+LIMIT 1;  /* return long_w of first element as its largest */

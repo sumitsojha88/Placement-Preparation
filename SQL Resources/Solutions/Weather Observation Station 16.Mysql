@@ -1,0 +1,6 @@
+
+
+
+SELECT ROUND(MIN(LAT_N),4) /* similar to previous prblms find out why and refer my notes*/
+FROM STATION
+WHERE LAT_N > 38.7780

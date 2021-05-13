@@ -1,0 +1,9 @@
+
+
+
+
+SELECT Name   /* we want names of students*/
+FROM STUDENTS
+WHERE Marks > 75  /* names of those student who got more than 75 marks */
+ORDER BY RIGHT(Name,3), ID ASC ;     /* Order by is use to sort elements(refer my notes) */
+                                     /* in above we used RIGHT function which select 3 characters from right and sort them */

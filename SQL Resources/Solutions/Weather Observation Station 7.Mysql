@@ -1,0 +1,5 @@
+
+
+SELECT DISTINCT CITY  /* use for distinct cities name */
+FROM STATION
+WHERE CITY REGEXP '[aeiou]$';   /* use for ending letters refer my notes*/

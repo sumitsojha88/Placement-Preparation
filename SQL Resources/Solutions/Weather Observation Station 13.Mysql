@@ -1,0 +1,9 @@
+
+/* first we will calculate sum of LAT_n WHICH lies in given range using WHERE*/
+/* for sum we will use SUM function */
+/* for round uspto 4 decimal we will use round function see notes */
+
+
+SELECT ROUND(SUM(LAT_N),4)
+FROM STATION
+WHERE LAT_N > 38.7880 AND LAT_N < 137.2345 ;

@@ -1,0 +1,5 @@
+
+/* we want to find abs(a-b) + abs(c-d) */
+
+SELECT ROUND(ABS(MAX(LAT_N)-MIN(LONG_W))+(MAX(LONG_W)-MIN(LAT_N)),4)
+FROM STATION ;

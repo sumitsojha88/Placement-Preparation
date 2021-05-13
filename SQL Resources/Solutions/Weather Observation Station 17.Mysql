@@ -1,0 +1,8 @@
+
+
+
+SELECT ROUND(LONG_W,4)  /* return long_w round upto 4 decimal */
+FROM STATION
+WHERE LAT_N > 38.7780 /* condition*/
+ORDER BY LAT_N ASC   /* sort by INCREASING order means LOWEST first */
+LIMIT 1; 

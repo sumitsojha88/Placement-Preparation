@@ -1,0 +1,7 @@
+
+                                    /* SIMILAR TO PART FIRST BUT IN THAT WE NEED ALL COLOI=UMNS WHILE IN THIS WE ONLY NEED NAME */
+
+SELECT NAME                       /* We need NAME coloumns so we select all by NAME */
+FROM CITY                        /* name of table if CITY*/
+WHERE POPULATION > 120000       /* IN QUESTION WE ARE GIVEN TO  COLUMNS OF THOSE CITIES WHICH HAVE POPULATION MORE THAN 120000 AND IS IN USE*/
+  AND COUNTRYCODE = 'USA' ;    /* We use WHERE function to solve this we is similar to if c++ or java */

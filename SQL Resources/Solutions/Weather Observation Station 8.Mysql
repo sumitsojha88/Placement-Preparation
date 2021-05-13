@@ -1,0 +1,6 @@
+
+
+SELECT DISTINCT CITY  /* use for distinct cities name*/
+FROM STATION
+WHERE CITY REGEXP '^[aeiou].*[aeiou]$';  /* combination of previous 2 problems refer notes */ 
+                                         /*starting and ending with vowels*/

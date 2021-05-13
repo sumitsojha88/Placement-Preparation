@@ -1,0 +1,6 @@
+
+
+
+SELECT ROUND(MAX(LAT_N),4)   /* we will use round for upto 4 decimal refer notes for more */ /* we will use max for finding max value less than 137.2345 */
+FROM STATION
+WHERE LAT_N <  137.2345 ;

@@ -1,0 +1,10 @@
+
+SELECT CITY,LENGTH(CITY)     /* select cities on length of cities name*/
+FROM STATION
+ORDER BY LENGTH(CITY) ASC,CITY ASC   /*we will sort names on the basis of length small comes first*/ /*then we will sort on the basis of alphabetical order*/
+LIMIT 1;
+
+SELECT CITY,LENGTH(CITY)    /* select cities on length of cities name*/
+FROM STATION
+ORDER BY LENGTH(CITY) DESC,CITY ASC /* same as above try to figure out whats different and why*/
+LIMIT 1;

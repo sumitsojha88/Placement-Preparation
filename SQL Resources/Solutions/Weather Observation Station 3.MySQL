@@ -1,0 +1,5 @@
+
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE ID%2 =0;   /* we need even ids so we will check if id no. is divisible by 2 or not i yes print else ignore */

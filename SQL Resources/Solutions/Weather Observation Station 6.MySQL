@@ -1,0 +1,5 @@
+
+
+SELECT DISTINCT CITY  /* names only of distinct cities*/
+FROM STATION
+WHERE REGEXP_LIKE(City, '^[AEIOU]');   /* names of city starting with vowels */ /* for function follow my notes everything is explained in that */
