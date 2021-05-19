@@ -7,7 +7,7 @@
 
 - [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/ "view topic")
 - [Maximum and minimum of an array using minimum number of comparisons](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/ "view topic")
-- [Kth smallest element ](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 "view question") - [Cpp Solution](./Sort%20an%20array%20of%200s%2C%201s%20and%202s.cpp)
+- [Kth smallest element ](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 "view question") - [Cpp Solution](https://github.com/sumitsojha88/Placement-Preparation/blob/main/DSA%20Preparation%20450/Array/Sort%20an%20array%20of%200s%2C%201s%20and%202s.cpp)
 - [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1# "view question") - [Cpp Solution](./solutions/Sort%20an%20array%20of%200s,%201s%20and%202s.cpp)
 - [Move all negative numbers to beginning and positive to end with constant extra space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ "view topic")
 - [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1# "view question") - [Cpp Solution](./solutions/Union%20of%20two%20arrays.cpp)
