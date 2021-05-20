@@ -47,26 +47,30 @@ Using two pointer O(n)
 
 vector<int> solve(vector<int>& nums) {
 
-    vector<int> ans;
-    int n=nums.size();
     int i=0;
-    int j=n-1;
-    while(i<=j)
-    {
-        if(abs(nums[i])>abs(nums[j]))
-        {
-            ans.push_back(nums[i]*nums[i]);
-            i++;
-        }
-        else
-        {
-             ans.push_back(nums[j]*nums[j]);
-            j--;
-        }
-    }
-    reverse(ans.begin(),ans.end());
-
-    return ans;
+            int n=nums.size();
+            vector<int> ans;
+            int j=nums.size()-1;
+            while(i<=j)
+            {
+                     int si = nums[i]*nums[i];
+                     int sj = nums[j]*nums[j];
+                     if(si>sj)
+                     {      
+                           ans.push_back(si);
+                             i++;
+                     }
+                     else 
+                     {
+                           ans.push_back(sj);
+                             j--;            
+                     }
+            }
+            
+            reverse(ans.begin(),ans.end());
+            
+            
+            return ans;
     
 }
 
