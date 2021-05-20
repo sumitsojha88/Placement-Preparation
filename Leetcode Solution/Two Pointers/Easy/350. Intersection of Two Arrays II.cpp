@@ -2,13 +2,14 @@
 similar question ti intersection of two array 1
   
   
-Approach:
- two pointer technique
+Approach 1:  two pointer technique
  first we will sort both arrays
  now we will start both array using pointer i and j
  if at any points both element are same we push it in ans array
  if nums1[i] > nums2[j] then we increase i else j.
 
+   
+Approach 2: Hashmap
 
 
 
@@ -24,6 +25,7 @@ Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
 Output: [4,9]
 
 
+Solution 1:
 
 
 class Solution {
@@ -59,5 +61,36 @@ public:
             
             
         
+    }
+};
+
+
+Solution 2 : Hashmap
+
+class Solution {
+public:
+    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
+        
+            vector<int> ans;
+            unordered_map<int,int> mp;
+            for(int i=0;i<nums1.size();i++)
+            {
+                
+                    mp[nums1[i]]++;
+            }
+            
+             for(int i=0;i<nums2.size();i++)
+            {
+                 if(mp[nums2[i]])
+                 {
+                       ans.push_back(nums2[i]);
+                         mp[nums2[i]]--;
+                 }
+                    
+                    
+            }
+            
+            
+        return ans;
     }
 };
