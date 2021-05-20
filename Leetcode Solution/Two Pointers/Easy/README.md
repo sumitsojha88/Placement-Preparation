@@ -1,9 +1,9 @@
 
 ### Two Pointers
 
-- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/ "view question")
-- [Maximum and minimum of an array using minimum number of comparisons](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/ "view topic")
-- [Kth smallest element ](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 "view question") - [Cpp Solution](https://github.com/sumitsojha88/Placement-Preparation/blob/main/DSA%20Preparation%20450/Array/Sort%20an%20array%20of%200s%2C%201s%20and%202s.cpp)
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/ "view question")  - [Cpp Solution](https://github.com/sumitsojha88/Placement-Preparation/blob/main/Leetcode%20Solution/Two%20Pointers/Easy/977.%20Squares%20of%20a%20Sorted%20Array.cpp)
+- [Reverse String](https://leetcode.com/problems/reverse-string/ "view question")  - [Cpp Solution](https://github.com/sumitsojha88/Placement-Preparation/blob/main/Leetcode%20Solution/Two%20Pointers/Easy/344.%20Reverse%20String.cpp)
+- [ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/ "view question") - [Cpp Solution](https://github.com/sumitsojha88/Placement-Preparation/blob/main/Leetcode%20Solution/Two%20Pointers/Easy/349.%20Intersection%20of%20Two%20Arrays.cpp)
 - [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1# "view question") - [Cpp Solution](./solutions/Sort%20an%20array%20of%200s,%201s%20and%202s.cpp)
 - [Move all negative numbers to beginning and positive to end with constant extra space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ "view topic")
 - [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1# "view question") - [Cpp Solution](./solutions/Union%20of%20two%20arrays.cpp)
