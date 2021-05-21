@@ -17,18 +17,13 @@
 
 |Folder|Content|
 |-------|:------:|
-|Lectures|[Notes about Algorithm And Data Structures](Lectures/README.md)|
-|System Design|[System design interview preparation](system-design/README.md)|
+|Aptitude|[Resources and Practice Problems](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Aptitude)|
+|BinarySearch.com |[My own coding Solutions O](https://github.com/sumitsojha88/Placement-Preparation/tree/main/BinarySearch.com%20Solutions)|
+|System Design|[System design interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/System%20Design%20Resources)|
 |Readings|[Free e-books about Competitive Programming](Reading/)|
-|Geeks For Geeks|[Geeks For GfG coding solutions](geeksforgeeks/README.md)|
-|HackerRank|[My own HackerRank coding solutions](HackerRank/README.md)|
-|Codingblock|[My own Codingblock coding solutions](codingblock/README.md)|
-|CoodeSignall|[My own CodeSignal Solutions](codesignal/README.md)|
-|CodeChef | [My own Codechef coding solutions](codechef/)|
-|UVA|[My own UVA Online Judge solutions ](UVA/)|
-|InterviewBit|[My Interview Bit solutions ](interviewbit/README.md)|
-|Leetcode|[My Leetcode solutions ](interviewbit/README.md)|
-|learn_data_structures|[ Warm App coding examples to learn Data Structures](learn_data_structures/)|
+|Geeks For Geeks|[Geeks For GfG coding solutions](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Geeks%20For%20Geeks%20Solutions)|
+|InterviewBit|[My Interview Bit solutions ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions)|
+|Leetcode|[My Leetcode solutions ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution)|
 
 ## Best Platforms for training
 
