@@ -1,9 +1,6 @@
 # Placement-Preparation
 
 
-
-# Competitive-programming
-
 ## Index of content
 
 1. [Structure of the repository](#Structure-of-the-Repository)
