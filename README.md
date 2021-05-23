@@ -17,9 +17,9 @@
 |Aptitude|[Resources and Practice Problems](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Aptitude)|
 |BinarySearch.com |[My own coding Solutions ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/BinarySearch.com%20Solutions)|
 |Computer Networks|[CN resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Computer%20Network%20Resources)|
-|Geeks For Geeks|[Geeks For GfG coding solutions](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Geeks%20For%20Geeks%20Solutions)|
-|InterviewBit|[My Interview Bit solutions ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions)|
-|Leetcode|[My Leetcode solutions ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution)|
+|Geeks For Geeks|[GfG coding solutions with Explanation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Geeks%20For%20Geeks%20Solutions)|
+|InterviewBit|[Interview Bit solutions with Explanation ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions)|
+|Leetcode|[Leetcode solutions with Explanation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution)|
 |Operating System|[OS resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Operating%20System%20Resources)|
 |OOPS|[OOPS resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/OOPS%20Resources)|
 |SQL|[SQL resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/SQL%20Resources)|
