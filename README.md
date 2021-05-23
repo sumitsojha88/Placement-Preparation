@@ -20,9 +20,9 @@
 |Geeks For Geeks|[GfG coding solutions with Explanation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Geeks%20For%20Geeks%20Solutions)|
 |InterviewBit|[Interview Bit solutions with Explanation ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions)|
 |Leetcode|[Leetcode solutions with Explanation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution)|
-|Operating System|[OS resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Operating%20System%20Resources)|
-|OOPS|[OOPS resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/OOPS%20Resources)|
-|SQL|[SQL resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/SQL%20Resources)|
+|Operating System|[OS resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Operating%20System%20Resources)|
+|OOPS|[OOPS resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/OOPS%20Resources)|
+|SQL|[SQL resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/SQL%20Resources)|
 |System Design|[System design interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/System%20Design%20Resources)|
 
 ## Best Platforms for training
