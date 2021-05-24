@@ -46,7 +46,7 @@
 4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
 5. If you would like to make any positive change to the resources content.
 
-## I appreciate any feedback
+##  I Appreciate any feedback
 Constructive criticisms or code reviews of any kind are very much welcome.
 
 If you have any questions about the solutions you can find here, feel free to contact me at: [sumitsojha8@gmail.com](mailto:sumitsojha8@gmail.com?subject=[GitHub]%20CompetitiveProgramming)
@@ -56,6 +56,8 @@ If you have any questions about the solutions you can find here, feel free to co
 
 
 # Social Media #
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sumitsojha88)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsojha8/)
-[![Website](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://www.sumitsojha8.co/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sumitsojha88/)](https://github.com/sumitsojha88/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/sumitsojha8)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumitsojha8@gmail.com)](mailto:sumitsojha8@gmail.com)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/sumitojha2)](https://auth.geeksforgeeks.org/user/sumitojha2)
+<a href="https://www.instagram.com/sumitsojha8/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>
