@@ -33,20 +33,8 @@ It will be a complete roadmap for your placement prep.
 |System Design|[System design interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/System%20Design%20Resources)|
 
 
-# 🏆 What do I need to prepare for the interviews?
 
-To get your dream company, you should be good in the following while facing an interview:
-
-📘***Solid Data Structures and Algorithms.*** Deep understanding of these subjects, how to combine them, how to find/design suitable ones for a problem, etc. This is not surprising as indeed these are the most foundational topics on which much of CS rests.
-
-📘***Strong in OOPS.*** OO Design and principles, subtle aspects of language, strong understanding of the language capability and limitations, its design and implementation.
-
-📘***Good understanding of OS, DBMS, Networks.*** These subjects were highlighted whose understanding is extremely important on being a successful software engineer for high-end work.
-
-📘***Ability to write well structured and efficient code.*** Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
-<br><br><br>
-
-## 🏆 Roadmap to Dream Placement
+# 🏆 Roadmap to Dream Placement
 
 <details>
   <summary style="font-size:1.15rem;">Language</summary>
@@ -81,7 +69,7 @@ To get your dream company, you should be good in the following while facing an i
   <summary style="font-size:1.15rem;">Data Structure and Algorithms</summary>
 
 - Without this, No Software Engineering Interview, in a tech giant can be cracked
-  - Follow the DSA Crack Sheet List given below
+  - Follow this [DSA Crack Sheet List](https://github.com/sumitsojha88/Placement-Preparation/tree/main/DSA%20Preparation%20450)
   - Time Required:  
     1️⃣ 2-3 months  
     2️⃣ 6-8 questions/day  
@@ -94,7 +82,7 @@ To get your dream company, you should be good in the following while facing an i
   
   * You need some projects to showcase your skills to your interviewer
     * Choices:   
-      1️⃣ Mobile Development   
+      1️⃣ [Mobile Development](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Flutter%20Resources)   
       2️⃣ Web Development    
       3️⃣ Machine Leraning    
       4️⃣ Some other stuff (like, Blockchain, IOT, etc)   
@@ -106,10 +94,11 @@ To get your dream company, you should be good in the following while facing an i
   <summary style="font-size:1.15rem;">Subjectve Topics</summary>
   
   * Do a Subsequent reading, revision any day you get time    
-    1️⃣ Operating System   
-    2️⃣ OOPS, Object Oriented Skills   
-    3️⃣ DBMS, Databse Management    
-    4️⃣ Computer Networking    
+    1️⃣ [Operating System](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Operating%20System%20Resources)   
+    2️⃣ [OOPS, Object Oriented Skills](https://github.com/sumitsojha88/Placement-Preparation/tree/main/OOPS%20Resources)   
+    3️⃣ [DBMS, Databse Management](https://github.com/sumitsojha88/Placement-Preparation/tree/main/DBMS)    
+    4️⃣ [Computer Networking](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Computer%20Network%20Resources)   
+    5️⃣ [System Design](https://github.com/sumitsojha88/Placement-Preparation/tree/main/System%20Design%20Resources)
   
 </details>
 
@@ -117,12 +106,11 @@ To get your dream company, you should be good in the following while facing an i
   <summary style="font-size:1.15rem;">Competitive Programming</summary>
 
 - CP needs time, it's not somthing thant you can master in 2 months, We will get comfortable with online platorms and get a taste of competitive programming
-- Leetcode questions nearly 150-200 questions
+- [Leetcode questions nearly 150-200 questions](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution)
   - Category:  
     1️⃣ Easy: 30%  
     2️⃣ Medium: 50%  
     3️⃣ Hard: 20%
-- If time allows then go for Codeforces div2 Level A,B and C question
 - Time Required:  
   1️⃣ 150-200 Questions  
   2️⃣ 2 months  
@@ -130,21 +118,6 @@ To get your dream company, you should be good in the following while facing an i
 
 </details>
 
-<details>
-  <summary style="font-size:1.15rem;">System Design</summary>
-
-- Tech Level:  
-  1️⃣ System's overview like we will use this queue with DynamoDB and a acheduler with justification of why we are using this DB, SQS, SNS, multithreading, etc.  
-  2️⃣ for SDE-1 equivalent positions, this level is somewhat rare
-- Normal Understanding:  
-  1️⃣ knowledge of dividing system & creating a rough DFD of system  
-  2️⃣ knowledge of DB Schema creation  
-  3️⃣ able to create problem-solving logic or not  
-  4️⃣ Time Required: Just need some reading of artiles/notes, can be pursued parallely
-- Great Resources:  
- 1️⃣ [Grokking](https://github.com/lei-hsia/grokking-system-design/blob/master/README.md)  
- 2️⃣ [Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
-</details>
 
 <details>
   <summary style="font-size:1.15rem;">Misc Stuff</summary>
@@ -155,7 +128,7 @@ To get your dream company, you should be good in the following while facing an i
   1️⃣ [C/C++/Java/Python fundamentals](https://www.geeksforgeeks.org/quiz-corner-gq/)  
   2️⃣ Print output type questions  
   3️⃣ Time/space complexity Questions  
-  4️⃣ [SQL Queries](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
+  4️⃣ [SQL Queries](https://github.com/sumitsojha88/Placement-Preparation/tree/main/SQL%20Resources)
 - [Puzzles](https://www.geeksforgeeks.org/puzzles/)
 - [Always go through 50-60 interview experiences before interview](https://www.geeksforgeeks.org/company-interview-corner/)
 </details>
@@ -165,7 +138,7 @@ To get your dream company, you should be good in the following while facing an i
 ## Best Platforms for training
 
  [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)	
-[![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/gufqgqbe_e)
+ [![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/gufqgqbe_e)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/sumitsojha8/)
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/)	
