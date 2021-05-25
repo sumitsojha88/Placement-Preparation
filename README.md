@@ -10,9 +10,10 @@ It will be a complete roadmap for your placement prep.
 ## Index of content
 
 1. [Structure of the repository](#Structure-of-the-Repository)
-2. [Platforms for Training](#Platforms-for-training)
-3. [When contribute](#When-contribute)
-4. [How to contribute](#How-to-contribute)
+2. [Roadmap to Dream Placement](#Roadmap-to-Dream-Placement)
+3. [Platforms for Training](#Platforms-for-training)
+4. [When contribute](#When-contribute)
+5. [How to contribute](#How-to-contribute)
 6. [Connect with me](#Connect-with-me)
 
 
@@ -24,6 +25,8 @@ It will be a complete roadmap for your placement prep.
 |Aptitude|[Resources and Practice Problems](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Aptitude)|
 |BinarySearch.com |[My own coding Solutions ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/BinarySearch.com%20Solutions)|
 |Computer Networks|[CN resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Computer%20Network%20Resources)|
+|DBMS|[DBMS resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/DBMS)|
+|Flutter|[OS resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Flutter%20Resources)|
 |Geeks For Geeks|[GfG coding solutions with Explanation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Geeks%20For%20Geeks%20Solutions)|
 |InterviewBit|[Interview Bit solutions with Explanation ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions)|
 |Leetcode|[Leetcode solutions with Explanation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution)|
