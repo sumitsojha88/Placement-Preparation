@@ -26,7 +26,7 @@ It will be a complete roadmap for your placement prep.
 |BinarySearch.com |[My own coding Solutions ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/BinarySearch.com%20Solutions)|
 |Computer Networks|[CN resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Computer%20Network%20Resources)|
 |DBMS|[DBMS resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/DBMS)|
-|Flutter|[OS resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Flutter%20Resources)|
+|Flutter|[Flutter resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Flutter%20Resources)|
 |Geeks For Geeks|[GfG coding solutions with Explanation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Geeks%20For%20Geeks%20Solutions)|
 |InterviewBit|[Interview Bit solutions with Explanation ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions)|
 |Leetcode|[Leetcode solutions with Explanation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution)|
