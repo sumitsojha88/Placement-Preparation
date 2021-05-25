@@ -1,4 +1,10 @@
-# Placement-Preparation
+ # :gift: Placement-Preparation- Complete Roadmap :gift:
+
+<br>
+This repository consists of all the necessary Resources,questions and their solutions required for cracking the coding rounds and technical interviews at tech companies as well. And this content will surely help you to crack your dream company. This material has been taken and combined from various different sources.
+It will be a complete roadmap for your placement prep.
+ 
+<br><br> 
 
 
 ## Index of content
@@ -8,6 +14,7 @@
 3. [When contribute](#When-contribute)
 4. [How to contribute](#How-to-contribute)
 6. [Connect with me](#Connect-with-me)
+
 
 
 ## Structure of the Repository
@@ -24,6 +31,136 @@
 |OOPS|[OOPS resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/OOPS%20Resources)|
 |SQL|[SQL resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/SQL%20Resources)|
 |System Design|[System design interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/System%20Design%20Resources)|
+
+
+# 🏆 What do I need to prepare for the interviews?
+
+To get your dream company, you should be good in the following while facing an interview:
+
+📘***Solid Data Structures and Algorithms.*** Deep understanding of these subjects, how to combine them, how to find/design suitable ones for a problem, etc. This is not surprising as indeed these are the most foundational topics on which much of CS rests.
+
+📘***Strong in OOPS.*** OO Design and principles, subtle aspects of language, strong understanding of the language capability and limitations, its design and implementation.
+
+📘***Good understanding of OS, DBMS, Networks.*** These subjects were highlighted whose understanding is extremely important on being a successful software engineer for high-end work.
+
+📘***Ability to write well structured and efficient code.*** Ability to evaluate efficiency of the code at different levels – algo, DS, execution level (OS), hardware to reduce memory as well as time; understanding of different layers of the system, and ability to evaluate/assess the program at these different layers.
+<br><br><br>
+
+## 🏆 Roadmap to Dream Placement
+
+<details>
+  <summary style="font-size:1.15rem;">Language</summary>
+  
+  - Intent
+    * Familiarity with Syntax
+    * Familiarity with all keywords & Basic Concepts
+    * main focus is on, that are you comfortable in writing code with your preferred language
+  - Choices
+     * C++
+       * Refrences:    
+         1️⃣ [cpprefrences](https://en.cppreference.com/w/cpp)   
+         2️⃣ [tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)   
+         3️⃣ [cplusplus](http://www.cplusplus.com/reference/)     
+       * Time Required:    
+         1️⃣ 1-2 weeks   
+         2️⃣ 1-2 hrs/day   
+     * Java
+       * Refrences:   
+         1️⃣ [Tutorialpoint](https://www.tutorialspoint.com/java/index.htm)   
+         2️⃣ [GFG](https://www.geeksforgeeks.org/java/)   
+       * Time Required: same as above    
+     * Python
+       * Refrences:    
+         1️⃣ [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm)   
+         2️⃣ [w3schools](https://www.w3schools.com/python/)   
+       * Time Required: same as above
+       * **Important Callout:** Some companies don't allow python as a coice in their online coding test, so prepare accordingly
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Data Structure and Algorithms</summary>
+
+- Without this, No Software Engineering Interview, in a tech giant can be cracked
+  - Follow the DSA Crack Sheet List given below
+  - Time Required:  
+    1️⃣ 2-3 months  
+    2️⃣ 6-8 questions/day  
+    3️⃣ 3-6 hrs/day
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Projects</summary>
+  
+  * You need some projects to showcase your skills to your interviewer
+    * Choices:   
+      1️⃣ Mobile Development   
+      2️⃣ Web Development    
+      3️⃣ Machine Leraning    
+      4️⃣ Some other stuff (like, Blockchain, IOT, etc)   
+    * Time Required: 3 months (doing on weekends 6-8 hours)
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Subjectve Topics</summary>
+  
+  * Do a Subsequent reading, revision any day you get time    
+    1️⃣ Operating System   
+    2️⃣ OOPS, Object Oriented Skills   
+    3️⃣ DBMS, Databse Management    
+    4️⃣ Computer Networking    
+  
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Competitive Programming</summary>
+
+- CP needs time, it's not somthing thant you can master in 2 months, We will get comfortable with online platorms and get a taste of competitive programming
+- Leetcode questions nearly 150-200 questions
+  - Category:  
+    1️⃣ Easy: 30%  
+    2️⃣ Medium: 50%  
+    3️⃣ Hard: 20%
+- If time allows then go for Codeforces div2 Level A,B and C question
+- Time Required:  
+  1️⃣ 150-200 Questions  
+  2️⃣ 2 months  
+  3️⃣ 3-4 Ques/day
+
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">System Design</summary>
+
+- Tech Level:  
+  1️⃣ System's overview like we will use this queue with DynamoDB and a acheduler with justification of why we are using this DB, SQS, SNS, multithreading, etc.  
+  2️⃣ for SDE-1 equivalent positions, this level is somewhat rare
+- Normal Understanding:  
+  1️⃣ knowledge of dividing system & creating a rough DFD of system  
+  2️⃣ knowledge of DB Schema creation  
+  3️⃣ able to create problem-solving logic or not  
+  4️⃣ Time Required: Just need some reading of artiles/notes, can be pursued parallely
+- Great Resources:  
+ 1️⃣ [Grokking](https://github.com/lei-hsia/grokking-system-design/blob/master/README.md)  
+ 2️⃣ [Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
+</details>
+
+<details>
+  <summary style="font-size:1.15rem;">Misc Stuff</summary>
+
+- [Aptitude/Reasoning](https://www.geeksforgeeks.org/quiz-corner-gq/)  
+  1️⃣ Do some mock tests to gain confidence
+- Basic Programming MCQ  
+  1️⃣ [C/C++/Java/Python fundamentals](https://www.geeksforgeeks.org/quiz-corner-gq/)  
+  2️⃣ Print output type questions  
+  3️⃣ Time/space complexity Questions  
+  4️⃣ [SQL Queries](https://www.geeksforgeeks.org/dbms-gq/sql-gq/)
+- [Puzzles](https://www.geeksforgeeks.org/puzzles/)
+- [Always go through 50-60 interview experiences before interview](https://www.geeksforgeeks.org/company-interview-corner/)
+</details>
+
+<br />
 
 ## Best Platforms for training
 
