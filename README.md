@@ -125,7 +125,7 @@ It will be a complete roadmap for your placement prep.
 <details>
   <summary style="font-size:1.15rem;">Misc Stuff</summary>
 
-- [Aptitude/Reasoning](https://www.geeksforgeeks.org/quiz-corner-gq/)  
+- [Aptitude/Reasoning](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Aptitude)  
   1️⃣ Do some mock tests to gain confidence
 - Basic Programming MCQ  
   1️⃣ [C/C++/Java/Python fundamentals](https://www.geeksforgeeks.org/quiz-corner-gq/)  
