@@ -270,6 +270,13 @@
 
 <br/>
 
+## Resources
+
+* UCB CS162 Operating Systems [[class](https://cs162.eecs.berkeley.edu/)] [[videos](https://www.youtube.com/playlist?list=PL89180A0A94A9BCBF)]
+* [The Eudyptula Challenge](http://eudyptula-challenge.org/)
+* [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
+* [OS Interview Questions](https://www.interviewbit.com/operating-system-interview-questions/)
+
 
 ## Last Minute Revision
 
