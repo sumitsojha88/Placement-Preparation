@@ -10,9 +10,6 @@
   2️⃣ knowledge of DB Schema creation  
   3️⃣ able to create problem-solving logic or not  
   4️⃣ Time Required: Just need some reading of artiles/notes, can be pursued parallely
-- Great Resources:  
- 1️⃣ [Grokking](https://github.com/lei-hsia/grokking-system-design/blob/master/README.md)  
- 2️⃣ [Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
 
 
 ## System design
