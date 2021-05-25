@@ -269,3 +269,8 @@
 </details>
 
 <br/>
+
+
+## Last Minute Revision
+
+- [📙 Last Minute Notes – Operating Systems](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
