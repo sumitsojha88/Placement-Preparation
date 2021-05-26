@@ -20,6 +20,10 @@
 1️⃣8️⃣ [Dynamic programming](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Dynamic%20Programming) \
 1️⃣9️⃣ [Trie](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Trie) \
  <br><br><br>
+ 
+ 
+## Complexities!
+[Sheet](https://www.bigocheatsheet.com/)
 
 ## Last Minute Revision
 
