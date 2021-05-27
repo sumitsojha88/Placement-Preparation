@@ -22,7 +22,7 @@
  <br><br><br>
  
  
- ## Youtube Channels!
+ # Youtube Channels!
 
 <details>
   <summary><b>Links</b></summary>
