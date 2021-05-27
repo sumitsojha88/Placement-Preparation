@@ -20,6 +20,38 @@
 1️⃣8️⃣ [Dynamic programming](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Dynamic%20Programming) \
 1️⃣9️⃣ [Trie](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Trie) \
  <br><br><br>
+ 
+ 
+ ## Youtube Channels!
+
+<details>
+  <summary><b>Links</b></summary>
+ 
+ 
+### Number Theory (Mathematics)
+ - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
+---
+ ### Recursion and BackTracking
+ - **Aditya Verma** - https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
+ - **Codealittle** - https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F 
+---
+ ### Bit Manipulations
+ - **Codealittle** - https://www.youtube.com/watch?v=5upadP-hWXQ&list=PL1oKdRlSbldNz2p_xrBMf2GhCKRm-cH2A 
+ - **codencode** - https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu
+---
+ ### Graph Theory
+ - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
+ - **Hitesh Tripathi** - https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm
+---
+ ### Dynamic Programing
+ - **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+ - **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+ - **Aditya Verma** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+ - **TakeYouForward** - https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe 
+---
+ 
+ 
+</details>
 
 ## Last Minute Revision
 
