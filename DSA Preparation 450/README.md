@@ -27,7 +27,7 @@
 1️⃣9️⃣ [Trie](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Trie) \
  <br><br><br>
  
-## Youtube Channels!
+# Youtube Channels!
 
 <details>
   <summary><b>Links</b></summary>
@@ -57,7 +57,8 @@
  
  
 </details>
-## Last Minute Revision
+
+# Last Minute Revision
 
 - [📙 Last Minute Notes – Algorithms](https://www.geeksforgeeks.org/lmns-algorithms-gq/)
 - [📙 Last Minute Notes – Data Structure](https://www.geeksforgeeks.org/lmns-gq/lmns-data-structure-gq/)
