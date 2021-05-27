@@ -1,25 +1,22 @@
 
  # 🏆  The sequence for studying Data Structures and Algorithms :
 
-1️⃣  [Arrays](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Arrays) \
-2️⃣  [Matrix](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Matrix) \
-3️⃣  [Math](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Math) \
-4️⃣  [String](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Strings) \
-5️⃣  [Binary Search](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Binary%20Search)\
-6️⃣  [Sorting](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Sort)\
-7️⃣  [Hashing](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Greedy)\
-8️⃣  [Stack](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Stack)\
-9️⃣  [Queue](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Queue)\
-1️⃣0️⃣ [Two Pointers](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Two%20Pointers) \
-1️⃣1️⃣ [Heap or priority queue](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Heap) \
-1️⃣2️⃣ [Linked List](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Linked%20list) \
-1️⃣3️⃣ [Recursion](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Recursion)\
-1️⃣4️⃣ [Tree](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Tree) \
-1️⃣5️⃣ [Backtracking](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/BackTracking) \
-1️⃣6️⃣ [Graph](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Graph) \
-1️⃣7️⃣ [Greedy](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Greedy) \
-1️⃣8️⃣ [Dynamic programming](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Dynamic%20Programming) \
-1️⃣9️⃣ [Trie](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Leetcode%20Solution/Trie) \
+1️⃣  [Arrays](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Arrays) \
+2️⃣  [Math](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Math) \
+3️⃣  [String](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/String) \
+4️⃣  [Binary Search](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Binary%20Search)\
+5️⃣  [Hashing](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Hashing)\
+6️⃣  [Stack and Queue](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Stacks%20And%20Queues)\
+7️⃣  [Two Pointers](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Two%20Pointer) \
+8️⃣  [Heap or priority queue](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Heaps%20and%20Maps) \
+1️⃣0️⃣ [Linked List](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Linked%20List) \
+1️⃣1️⃣ [Tree](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Tree%20Data%20Structure) \
+1️⃣2️⃣ [Backtracking](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Backtracking) \
+1️⃣3️⃣ [Greedy](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Greedy) \
+1️⃣4️⃣ [Dynamic programming](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Dynamic%20Programming) \
+1️⃣5️⃣ [Graph](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Graph) \
+    
+
  <br><br><br>
 # Youtube Channels!
 
