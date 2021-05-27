@@ -14,7 +14,7 @@
 1️⃣2️⃣ [Backtracking](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Backtracking) \
 1️⃣3️⃣ [Greedy](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Greedy) \
 1️⃣4️⃣ [Dynamic programming](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Dynamic%20Programming) \
-1️⃣5️⃣ [Graph](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Graph) \
+1️⃣5️⃣ [Graph](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Interview%20Bit%20Solutions/Graph) 
     
 
  <br><br><br>
