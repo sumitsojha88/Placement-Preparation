@@ -23,7 +23,6 @@ It will be a complete roadmap for your placement prep.
 |Folder|Content|
 |-------|:-----------:|
 |Aptitude|[Resources and Practice Problems](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Aptitude)|
-|BinarySearch.com |[My own coding Solutions ](https://github.com/sumitsojha88/Placement-Preparation/tree/main/BinarySearch.com%20Solutions)|
 |Computer Networks|[CN resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Computer%20Network%20Resources)|
 |DBMS|[DBMS resources and interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/DBMS)|
 |Flutter|[Flutter resources for interview preparation](https://github.com/sumitsojha88/Placement-Preparation/tree/main/Flutter%20Resources)|
