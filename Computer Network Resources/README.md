@@ -1,9 +1,9 @@
 ## Youtube Channels
 
-[Gate Smashers](https://www.youtube.com/watch?v=JFF2vJaN0Cw&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
-[Neso Academy](https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
-[Education 4u](https://www.youtube.com/watch?v=PwFqQfyv0xM&list=PLrjkTql3jnm-iqlEOuVTkmCaRP8F2H3-u)
-[Uncode - GATE Computer Science](https://www.youtube.com/watch?v=UXMIxCYZu8o&list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
+* [Gate Smashers](https://www.youtube.com/watch?v=JFF2vJaN0Cw&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+* [Neso Academy](https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+* [Education 4u](https://www.youtube.com/watch?v=PwFqQfyv0xM&list=PLrjkTql3jnm-iqlEOuVTkmCaRP8F2H3-u)
+* [Uncode - GATE Computer Science](https://www.youtube.com/watch?v=UXMIxCYZu8o&list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 
 
 ## Networking Books
