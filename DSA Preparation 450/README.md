@@ -1,7 +1,7 @@
 
 # DSA Crack Sheet
 
-## [All questions](https://drive.google.com/file/d/1TIj9JtyfoKxdd3U3kpjt869uiImGLnk-/view?usp=sharing)
+## [All questions](https://450-dsa-tracker.netlify.app/)
 
 
  # 🏆  The sequence for studying Data Structures and Algorithms :
