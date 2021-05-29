@@ -10,6 +10,16 @@
   2️⃣ knowledge of DB Schema creation  
   3️⃣ able to create problem-solving logic or not  
   4️⃣ Time Required: Just need some reading of artiles/notes, can be pursued parallely
+  
+  
+# Youtube Channels
+
+* [Gaurav Sen](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [Geek's Lesson](https://www.youtube.com/watch?v=MbjObHmDbZo)
+* [Tushar Roy](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
+* [Coding Simplified](https://www.youtube.com/watch?v=vge7qwCR1dA&list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
+* [sudoCode](https://www.youtube.com/watch?v=FSR1s2b-l_I&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=1)
+
 
 
 ## System design
