@@ -1,9 +1,9 @@
 
 # Youtube Channels for Resume tips
 
-[Love Babbar](https://www.youtube.com/watch?v=_IL8rMDUYHQ)
-[Apna College](https://www.youtube.com/watch?v=WZ6ZhiCg2_Q)
-[Code With Harry](https://www.youtube.com/watch?v=C7pNLIq3kOI)
+- [Love Babbar](https://www.youtube.com/watch?v=_IL8rMDUYHQ)
+- [Apna College](https://www.youtube.com/watch?v=WZ6ZhiCg2_Q)
+- [Code With Harry](https://www.youtube.com/watch?v=C7pNLIq3kOI)
 
 
 
@@ -17,6 +17,6 @@
  - [Cvmaker](https://cvmkr.com/)
  - [CakeResume](https://www.cakeresume.com/)
  - [Canva](https://www.canva.com/resumes/)
- - 
+ 
  
  
