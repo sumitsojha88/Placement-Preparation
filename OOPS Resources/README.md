@@ -12,12 +12,3 @@ Object-oriented programming (OOP) is a programming paradigm based on the concept
  * C++ allows exception handling, and function overloading which are not possible in C.
  * C++ is a powerful, efficient and fast language. It finds a wide range of applications – from GUI applications to 3D graphics for games to real-time mathematical simulations.
 
-
-## INDEX 
-
-1. [Revise basics of C programming](./reviseC)
-2. [Concept of pointers](./pointersInC)
-3. [Concept of structures](./Structures)
-4. [Searching algorithms](./Search)
-5. [Sorting Algorithms](./Sort)
-6. [Introduction To Object Oriented Programming](./IntroToOOP)
