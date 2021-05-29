@@ -21,11 +21,11 @@
 - [Sort by Set Bit Count](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1# "view question")
 - [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1# "view question") 
 - [Bishu and Soldiers](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/ "view question")
-- [Kth smallest number again](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/ "view question") - 
+- [Kth smallest number again](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/ "view question") 
 - [Find pivot element in a sorted and rotated array](http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/ "view topic")
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ "view question") 
 - [K-th element of two sorted Arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1# "view question")
 - [AGGRCOW - Aggressive cows](https://www.spoj.com/problems/AGGRCOW/ "view question") 
 - [Allocate minimum number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1# "view question") 
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ "view question") 
-- []( "view question") 
+
