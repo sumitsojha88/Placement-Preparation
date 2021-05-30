@@ -22,9 +22,10 @@
 
 
 
-## System design
+## System design Repo or Articles.
 
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [kartikMahendru-System-Design-Resources](https://github.com/kartikMahendru/System-Design-Resources)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
   * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
