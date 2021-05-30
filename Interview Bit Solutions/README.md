@@ -49,7 +49,11 @@
  
 </details>
 
-## Last Minute Revision
+# Complexities!
+[Sheet](https://www.bigocheatsheet.com/)
+![image](https://user-images.githubusercontent.com/54531841/119622011-622abc00-be24-11eb-88d0-04061bc154fe.png)
+
+# Last Minute Revision
 
 - [📙 Last Minute Notes – Algorithms](https://www.geeksforgeeks.org/lmns-algorithms-gq/)
 - [📙 Last Minute Notes – Data Structure](https://www.geeksforgeeks.org/lmns-gq/lmns-data-structure-gq/)
