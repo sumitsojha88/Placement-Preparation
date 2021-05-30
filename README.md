@@ -155,11 +155,12 @@ It will be a complete roadmap for your placement prep.
  
 
 ## When contribute
-1. If there is no solution to a problem in the main branch.
-2. If your solution is asymptotically faster than the one in the main branch.
-3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
-4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
-5. If you would like to make any positive change to the resources content.
+1. If there is no solution or explanation to a problem in the main branch.
+2. Generally codes are in C++ if your solution is in other langauge.
+3. If your solution is asymptotically faster than the one in the main branch.
+4. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
+5. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
+6. If you would like to make any positive change to the resources content.
  
 
 ##  I Appreciate any feedback
