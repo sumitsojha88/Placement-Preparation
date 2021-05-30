@@ -1,14 +1,11 @@
 
 # OOPS Guidebook For Placement
-This is your guidebook to Object Oriented Programming in C++ and JAVA.
+This is your guide repo to Object Oriented Programming in C++ and JAVA.
 
-## What is Object Oriented Programming?
-Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
-
-## Why C++
- * C++ is a highly portable language and is often the language of choice for multi-device, multi-platform app development.
- * C++ is an object-oriented programming language and includes classes, inheritance, polymorphism, data abstraction and encapsulation.
- * C++ has a rich function library.
- * C++ allows exception handling, and function overloading which are not possible in C.
- * C++ is a powerful, efficient and fast language. It finds a wide range of applications – from GUI applications to 3D graphics for games to real-time mathematical simulations.
+# Youtube Channels
+* [Smart Programming](https://www.youtube.com/watch?v=7WhnYwoBY24&list=PLlhM4lkb2sEhf5NlWeYh_gdcN49pHjVP0)
+* [Education 4u](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42)
+* [Code With Harry](https://www.youtube.com/watch?v=5OrZpBbGKgc)
+* [Anuj Bhaiya](https://www.youtube.com/watch?v=a199KZGMNxk)
+* [Learning Lad](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq)
 
