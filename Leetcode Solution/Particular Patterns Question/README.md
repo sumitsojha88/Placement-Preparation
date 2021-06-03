@@ -1,4 +1,8 @@
+## Links for tips 
 
+[Binary Trees](https://leetcode.com/discuss/study-guide/1212004/Binary-Trees-study-guide)
+[Algo List](https://leetcode.com/discuss/study-guide/1204393/Algo-List)
+[Dynamic Programming For beginners](https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)
 
 
 ## Tips to Consider
