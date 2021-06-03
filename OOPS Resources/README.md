@@ -9,3 +9,10 @@ This is your guide repo to Object Oriented Programming in C++ and JAVA.
 * [Anuj Bhaiya](https://www.youtube.com/watch?v=a199KZGMNxk)
 * [Learning Lad](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq)
 
+# Reading sites for oops in cpp 
+* [GFG](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+* [Java Point](https://www.javatpoint.com/cpp-oops-concepts)
+* [W3Schools](https://www.w3schools.com/cpp/cpp_oop.asp)
+* [Tutorials Point](https://www.tutorialspoint.com/cplusplus/cpp_object_oriented.htm)
+* [Study Tonight](https://www.studytonight.com/cpp/cpp-and-oops-concepts.php)
+
