@@ -1,47 +1,45 @@
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;
  *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-        vector<TreeNode* >helper(int start,int end)
+        // Time complexity O(n^2)
+        vector<TreeNode*> solve(int s,int e)
         {
-           vector<TreeNode* > res;
-                if(start>end)
+                vector<TreeNode*> ans;  
+                if(s>e)
                 {
-                        res.push_back(NULL);
-                        return res;
+                        ans.push_back(NULL);
+                                return ans;
                 }
-                for(int i=start;i<=end;i++)
+                for(int i=s;i<=e;i++)
                 {
-                       vector<TreeNode* > lefts=helper(start,i-1);
-                        vector<TreeNode* > rights=helper(i+1,end);
-                        for(int j=0;j<(int)lefts.size();j++)
-                        {
-                                for(int k=0;k<(int)rights.size();k++)
+                      vector<TreeNode*> left = solve(s,i-1);
+                      vector<TreeNode*> right = solve(i+1,e);   
+                        
+                        for(auto l: left)
+                                for(auto r: right)
                                 {
-                                      TreeNode* root = new TreeNode(i);
-                                       root->left = lefts[j];
-                                       root->right = rights[k]; 
-                                        
-                                        res.push_back(root);
+                                        TreeNode* root = new TreeNode(i);
+                                        root->left = l;
+                                        root->right = r;
+                                        ans.push_back(root);                                       
                                 }
-                        }
                 }
-                return res;    
+                
+                return ans;
         }
-           
     vector<TreeNode*> generateTrees(int n) {
-            
-            if(n==0)
-                    return vector<TreeNode* >(0);
-           
-            return helper(1,n);
+            vector<TreeNode*> ans;
+            if(n==0) return ans;       
+            return solve(1,n);;        
     }
 };
