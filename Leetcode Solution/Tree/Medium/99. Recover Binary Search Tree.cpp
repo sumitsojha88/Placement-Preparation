@@ -10,12 +10,19 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+ // Time: O(N) Space O(N);
+Approach:
+1)first using inorder traversal find array in sorted order.
+2)As two elements are swapped so they are are in wrong lace find them and store.
+3)Now find these value in swapped tree and replace with other value;
+        
 class Solution {
 public:
 
         
        vector<int> ans; 
-        void inorder(TreeNode* node)
+        void inorder(TreeNode* node)   // for inorder traversal
         {
                 if(!node) return ;
                 
@@ -26,7 +33,7 @@ public:
                  inorder(node->right);
                
         }
-  void fix(TreeNode* node,int src,int des)
+  void fix(TreeNode* node,int src,int des)   // for fixing the values in tree
   {
           
           if(!node) return ;
@@ -53,7 +60,7 @@ public:
                     
          vector<int> diff;
          
-         for(int i=0;i< (ans.size()-1 ) ;i++)
+         for(int i=0;i< (ans.size()-1 ) ;i++)     // for higher value
          {
                       if(ans[i]>=ans[i+1])
                       {
@@ -61,7 +68,7 @@ public:
                               break;
                       }
          }
-         for(int i=ans.size()-1;i>=0 ;i--)
+         for(int i=ans.size()-1;i>=0 ;i--)  // for lower value
          {
                       if(ans[i]<=ans[i-1])
                       {
