@@ -11,6 +11,7 @@
  * };
  */
 
+Solution 1:
  // Time: O(N) Space O(N);
 Approach:
 1)first using inorder traversal find array in sorted order.
@@ -81,3 +82,33 @@ public:
                  
     }
 };
+
+
+
+Solution 2: Time O(n) space O(1)
+ 
+ class Solution {
+public:
+    
+    TreeNode* prev = new TreeNode(INT_MIN);
+    TreeNode *first=NULL, *second;
+    
+    void inorder(TreeNode* node){
+        if(node->left) inorder(node->left);
+        
+        if(first==NULL && node->val<prev->val) first = prev;
+        if(first!=NULL && node->val<prev->val) second = node;
+        
+        prev = node;
+        if(node->right) inorder(node->right); 
+    }
+    
+    void recoverTree(TreeNode* root) {
+        inorder(root);
+        
+        int temp = first->val;
+        first->val = second->val;
+        second->val = temp;
+    }
+};
+ 
