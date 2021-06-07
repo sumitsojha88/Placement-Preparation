@@ -1,3 +1,10 @@
+Approach:
+Same as level order traversal 
+refer:- 102. Binary Tree Level Order Traversal
+link: https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+
+
 
 /**
  * Definition for a binary tree node.
@@ -5,37 +12,50 @@
  *     int val;
  *     TreeNode *left;
  *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// Time O(n) Space O(n)
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-       vector<vector<int>> res;
+            
+            if(!root) return {};
+            vector<vector<int>> ans;
             queue<TreeNode*> q;
-            if(root==NULL)
-                    return res;
-            q.push(root);
+             q.push(root);
             while(!q.empty())
             {
                     int size=q.size();
-                    vector<int> c={};
-                     for(int i = 0; i < size; i++)
+                    vector<int> v;
+                    while(size--)
                     {
-                       TreeNode* curr=q.front();
+                         TreeNode* curr = q.front();
                             q.pop();
-                            c.push_back(curr->val);
+                            v.push_back(curr->val);
                             if(curr->left)
+                            {
                                     q.push(curr->left);
-                            if(curr->right)
+                            }
+                             if(curr->right)
+                            {
                                     q.push(curr->right);
+                            }
                     }
-                    res.push_back(c);
+                    
+                    ans.push_back(v);
             }
-            for(int i=0;i<res.size();i++)
-                    if(i%2)
-                    reverse(res[i].begin(),res[i].end());
             
-            return res;
+            for(int i=0;i<ans.size();i++)
+            {
+                    if(i%2)
+                            reverse(ans[i].begin(),ans[i].end());
+            }
+            
+            
+            return ans;
+        
     }
 };
