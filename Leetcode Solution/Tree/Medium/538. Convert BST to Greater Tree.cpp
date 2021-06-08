@@ -1,5 +1,4 @@
 
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -13,22 +12,18 @@
  */
 class Solution {
 public:
-        int prev;
-    int sum=0;
-    void inorder(TreeNode* &root)
-    {
-        if(root==NULL)
-        {
-            return;
-        }
-        inorder(root->right);
-        sum+=root->val;
-        root->val=sum;
-        inorder(root->left);
-    }
+        int sum=0;
     TreeNode* convertBST(TreeNode* root) {
-            inorder(root);
-     return root; 
+            
+            if(!root) return root;
+            
+            if(root->right) convertBST(root->right);
+            
+            sum = root->val =  sum + root->val;
+            
+            if(root->left) convertBST(root->left);
+            
+            return root;
         
     }
 };
