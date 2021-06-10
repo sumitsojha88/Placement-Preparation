@@ -12,8 +12,8 @@ if max<n, then we can add (,else not.
 For adding ): If number of close brackets(close) is less than the opening brackets(open), i.e.
 if open<close, we can add ), else not
   
-  
-  Code:
+
+Code:
 
 class Solution {
 public:
