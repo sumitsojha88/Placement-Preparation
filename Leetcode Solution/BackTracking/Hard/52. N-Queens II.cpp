@@ -1,4 +1,13 @@
+Same as N-Queens  : https://github.com/sumitsojha88/Placement-Preparation/blob/main/Leetcode%20Solution/BackTracking/Hard/51.%20N-Queens.cpp
 
+
+Approach: Try all the possible positions for the queen.
+ isSafe functions check whether
+the current position is safe or not.
+  
+  
+Time Complexity: O(2^n)
+Space Complexity: O(2^n)
 
 
 class Solution {
