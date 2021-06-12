@@ -1,4 +1,4 @@
-
+time complexity = O(n^k)
 
 class Solution {
 public:
