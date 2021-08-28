@@ -27,6 +27,7 @@
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [kartikMahendru-System-Design-Resources](https://github.com/kartikMahendru/System-Design-Resources)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  * [Solution of Course in Python](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
   * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
