@@ -57,12 +57,14 @@ It will be a complete roadmap for your placement prep.
      * Java
        * Refrences:   
          1️⃣ [Tutorialpoint](https://www.tutorialspoint.com/java/index.htm)   
-         2️⃣ [GFG](https://www.geeksforgeeks.org/java/)   
+         2️⃣ [GFG](https://www.geeksforgeeks.org/java/)  
+         3️⃣ [Scaler Topics](https://www.scaler.com/topics/java/) 
        * Time Required: same as above    
      * Python
        * Refrences:    
          1️⃣ [Tutorialspoint](https://www.tutorialspoint.com/python/index.htm)   
          2️⃣ [w3schools](https://www.w3schools.com/python/)   
+         3️⃣ [Scaler Topics](https://www.scaler.com/topics/python/) 
        * Time Required: same as above
        * **Important Callout:** Some companies don't allow python as a coice in their online coding test, so prepare accordingly
 </details>
