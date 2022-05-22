@@ -33,11 +33,25 @@ int countBitsFlip(int a, int b){
     int c=a^b;
     while(c)
     {
-        c = c&(c-1);
-        
-        
+      c = c&(c-1);      
       count++;
     }
+//     11110 = c
+//     11101 = c-1
+//     c = c&(c-1);
+//     step -> 1
+//     c = 11100
+//     c-1 = 11011
+//     step -> 2
+//     c = 11000
+//     c-1 = 10111
+//     step -> 3
+//     c = 10000
+//     c-1 = 01111
+//     step -> 4
+//     c = 00000
+//     that means -> a^b == 0 -> a and b are equal.
+  
     
     return count;
     
