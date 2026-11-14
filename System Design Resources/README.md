@@ -26,9 +26,9 @@
 
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [kartikMahendru-System-Design-Resources](https://github.com/kartikMahendru/System-Design-Resources)
-* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
   * [Solution of Course in Python](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
-  * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
+  * This is a paid course but has several free previews such as [Designing Instagram](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-instagram)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
